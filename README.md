@@ -1,7 +1,24 @@
+---
+cover: .gitbook/assets/CISCO Penetration Testing.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Methodology
 
-
-
-<figure><img src=".gitbook/assets/CISCO Penetration Testing.png" alt=""><figcaption><p>CISCO Penetration Testing</p></figcaption></figure>
+Hacking Cisco Devices
 
 {% @mailchimp/mailchimpSubscribe %}
